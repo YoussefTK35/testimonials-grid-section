@@ -118,7 +118,7 @@ body {
     }
     .grid-item {
         flex: 1;
-        max-width: 500px;
+        max-width: 30rem;
     }
     #quotes {
         display: none;
